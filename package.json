@@ -14,5 +14,8 @@
     "apollo-server": "2",
     "graphql": "^15.6.0",
     "mongoose": "^6.0.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
   }
 }
